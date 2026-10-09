@@ -141,4 +141,4 @@ El botón verde en la sección Inicio rápido.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*urban-zephyr-877 · Actualizado 2026-10-08 · Compartido bajo licencia MIT*
+*urban-zephyr-877 · Actualizado 2026-10-09 · Compartido bajo licencia MIT*
